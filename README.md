@@ -124,7 +124,6 @@
 - [凉拌鸡丝](./dishes/meat_dish/凉拌鸡丝/凉拌鸡丝.md)
 - [萝卜炖羊排](./dishes/meat_dish/萝卜炖羊排.md)
 - [麻辣香锅](./dishes/meat_dish/麻辣香锅.md)
-- [麻婆豆腐](./dishes/meat_dish/麻婆豆腐/麻婆豆腐.md)
 - [梅菜扣肉](./dishes/meat_dish/梅菜扣肉/梅菜扣肉.md)
 - [奶酪培根通心粉](./dishes/meat_dish/奶酪培根通心粉/奶酪培根通心粉.md)
 - [啤酒鸭](./dishes/meat_dish/啤酒鸭/啤酒鸭.md)
