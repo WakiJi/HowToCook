@@ -5,6 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 ![Man hours](https://manhours.aiursoft.cn/r/github.com/anduin2017/howtocook.svg)
+[![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://hub.aiursoft.cn/#!/taglist/anduin/howtocook)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -179,6 +180,8 @@
 - [红烧鱼头](./dishes/aquatic/红烧鱼头.md)
 - [黄油煎虾](./dishes/aquatic/黄油煎虾/黄油煎虾.md)
 - [烤鱼](./dishes/aquatic/混合烤鱼/烤鱼.md)
+- [芥末黄油罗氏虾](./dishes/aquatic/芥末黄油罗氏虾/芥末黄油罗氏虾.md)
+- [芥末黄油罗氏虾](./dishes/aquatic/芥末黄油罗氏虾.md)
 - [咖喱炒蟹](./dishes/aquatic/咖喱炒蟹.md)
 - [鲤鱼炖白菜](./dishes/aquatic/鲤鱼炖白菜/鲤鱼炖白菜.md)
 - [清蒸鲈鱼](./dishes/aquatic/清蒸鲈鱼/清蒸鲈鱼.md)
@@ -271,6 +274,8 @@
 ### 汤与粥
 
 - [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
+- [陈皮排骨汤](./dishes/soup/陈皮排骨汤/陈皮排骨汤.md)
+- [陈皮排骨汤](./dishes/soup/陈皮排骨汤.md)
 - [番茄牛肉蛋花汤](./dishes/soup/番茄牛肉蛋花汤.md)
 - [勾芡香菇汤](./dishes/soup/勾芡香菇汤/勾芡香菇汤.md)
 - [金针菇汤](./dishes/soup/金针菇汤.md)
@@ -291,6 +296,7 @@
 - [耙耙柑茶](./dishes/drink/耙耙柑茶/耙耙柑茶.md)
 - [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 - [冰粉](./dishes/drink/冰粉/冰粉.md)
+- [菠萝咖啡特调](./dishes/drink/菠萝咖啡特调/菠萝咖啡特调.md)
 - [金菲士](./dishes/drink/金菲士/金菲士.md)
 - [金汤力](./dishes/drink/金汤力/金汤力.md)
 - [可乐桶](./dishes/drink/可乐桶.md)
@@ -307,6 +313,7 @@
 ### 酱料和其它材料
 
 - [草莓酱](./dishes/condiment/草莓酱/草莓酱.md)
+- [葱油](./dishes/condiment/葱油.md)
 - [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 - [糖醋汁](./dishes/condiment/糖醋汁.md)
 - [糖色](./dishes/condiment/糖色.md)
@@ -325,8 +332,10 @@
 - [玛格丽特饼干](./dishes/dessert/玛格丽特饼干/玛格丽特饼干.md)
 - [魔芋蛋糕](./dishes/dessert/魔芋蛋糕/魔芋蛋糕.md)
 - [戚风蛋糕](./dishes/dessert/戚风蛋糕/戚风蛋糕.md)
+- [酸奶意式奶冻](./dishes/dessert/酸奶意式奶冻/酸奶意式奶冻.md)
 - [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
 - [雪花酥](./dishes/dessert/雪花酥/雪花酥.md)
+- [英式司康](./dishes/dessert/英式司康/英式司康.md)
 - [芋泥雪媚娘](./dishes/dessert/芋泥雪媚娘/芋泥雪媚娘.md)
 
 ## 进阶知识学习
